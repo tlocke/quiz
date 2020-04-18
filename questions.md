@@ -4,7 +4,7 @@
    about other 3D shapes. Match the name of the shape with the number of faces
    it has:
 
-   * Names: Tetrahedron, Cube, Octahedron, Dodecahedron
+   * Names: Dodecahedron, Octahedron, Tetrahedron, Cube
    * Faces: 6, 8, 4, 12
 
 2. I went into Adele's Takeaway over the road and asked how much a large
