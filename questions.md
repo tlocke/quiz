@@ -3,8 +3,9 @@
 1. My lodger told me that an Icosahedron has 20 sides. That got me thinking
    about other 3D shapes. Match the name of the shape with the number of faces
    it has:
-   Names: Tetrahedron, Cube, Octahedron, Dodecahedron
-   Faces: 6, 8, 4, 12
+
+   * Names: Tetrahedron, Cube, Octahedron, Dodecahedron
+   * Faces: 6, 8, 4, 12
 
 2. I went into Adele's Takeaway over the road and asked how much a large
    vegetarian pizza is. He said, 'It's half its price plus 6 quid mate.' How
