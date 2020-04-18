@@ -1,4 +1,4 @@
-= Questions
+# Questions
 
 1. Match the name of the shape with the number of faces it has:
    Names: Tetrahedron, Cube, Octahedron, Dodecahedron, Icosahedron
