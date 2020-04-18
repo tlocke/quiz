@@ -30,10 +30,11 @@
 
 8. If you randomly chose an answer to this question, what's the chance of
    getting it right?
-   a) 0%
-   b) 25%
-   c) 75%
-   d) 100%
+
+   * a) 0%
+   * b) 25%
+   * c) 75%
+   * d) 100%
 
 9. I'm looking at a book on the bookshelf. It's the 3rd from the right, and the
    6th from the left. How many books on the bookshelf?
