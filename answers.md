@@ -8,4 +8,3 @@ Answer:
 * 6 - Cube
 * 8 - Octahedron
 * 12 - Dodecahedron
-* 20 - Icosahedron
